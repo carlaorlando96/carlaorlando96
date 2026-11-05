@@ -49,17 +49,14 @@ During my PhD, I used computational approaches to investigate protein structure,
 
 **PhD in Chemical Sciences**  
 University of Milano-Bicocca | 2022–2026
-
 Research in computational chemistry and molecular modelling, focusing on biomolecular systems, enzyme mechanisms and protein–ligand interactions.
 
 **Visiting Researcher**  
 Instituto de Ciencia Molecular, Valencia | 2024–2025
-
 Research involving computational approaches to molecular and biomolecular systems.
 
 **Postgraduate Research Scholar**  
 University of Calabria | 2021–2022
-
 Research activities in computational chemistry and molecular modelling.
 
 ## Publications
